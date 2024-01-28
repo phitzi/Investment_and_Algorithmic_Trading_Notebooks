@@ -7,3 +7,4 @@ scikit-learn
 jupyter
 yfinance
 tqdm
+Backtesting
