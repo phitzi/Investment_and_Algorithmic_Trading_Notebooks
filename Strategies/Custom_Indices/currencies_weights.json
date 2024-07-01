@@ -1,0 +1,98 @@
+{
+    "USD": {
+      "name": "United States Dollar",
+      "symbol": "$",
+      "GDP": 26900.0
+    },
+    "EUR": {
+      "name": "Euro",
+      "symbol": "€",
+      "GDP": 19795.0
+    },
+    "GBP": {
+      "name": "British Pound Sterling",
+      "symbol": "£",
+      "GDP": 4032.0
+    },
+    "AUD": {
+      "name": "Australian Dollar",
+      "symbol": "A$",
+      "GDP": 1072.5
+    },
+    "NZD": {
+      "name": "New Zealand Dollar",
+      "symbol": "NZ$",
+      "GDP": 156.0
+    },
+    "CHF": {
+      "name": "Swiss Franc",
+      "symbol": "CHF",
+      "GDP": 913.0
+    },
+    "CAD": {
+      "name": "Canadian Dollar",
+      "symbol": "C$",
+      "GDP": 1702.0
+    },
+    "JPY": {
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "GDP": 368.65
+    },
+    "SEK": {
+      "name": "Swedish Krona",
+      "symbol": "kr",
+      "GDP": 58.9
+    },
+    "NOK": {
+      "name": "Norwegian Krone",
+      "symbol": "kr",
+      "GDP": 39.48
+    },
+    "SGD": {
+      "name": "Singapore Dollar",
+      "symbol": "S$",
+      "GDP": 370.0
+    },
+    "PLN": {
+      "name": "Polish Zloty",
+      "symbol": "zł",
+      "GDP": 201.6
+    },
+    "DKK": {
+      "name": "Danish Krone",
+      "symbol": "kr",
+      "GDP": 63.0
+    },
+    "TRY": {
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "GDP": 37.8
+    },
+    "BRL": {
+      "name": "Brazilian Real",
+      "symbol": "R$",
+      "GDP": 462.0
+    },
+    "ZAR": {
+      "name": "South African Rand",
+      "symbol": "R",
+      "GDP": 22.79
+    },
+    "HKD": {
+      "name": "Hong Kong Dollar",
+      "symbol": "HK$",
+      "GDP": 58.5
+    },
+    "HUF": {
+      "name": "Hungarian Forint",
+      "symbol": "Ft",
+      "GDP": 0.58
+    },
+    "MXN": {
+      "name": "Mexican Peso",
+      "symbol": "$",
+      "GDP": 74.1
+    }
+  }
+  

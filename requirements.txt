@@ -10,3 +10,4 @@ tqdm
 Backtesting
 pyarrow
 scikit-optimize
+mplfinance

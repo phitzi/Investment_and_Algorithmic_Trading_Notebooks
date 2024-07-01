@@ -12,6 +12,7 @@ __pycache__/
 venv/
 env/
 *.env
+.venv
 
 # IDE files
 .vscode/
@@ -28,3 +29,6 @@ env/
 
 # Windows
 Thumbs.db
+
+# Varius files for playing
+/Strategies/Custom_Indices/*.csv

@@ -1,0 +1,208 @@
+{
+    "CHFPLN": {
+      "name": "CHFPLN",
+      "buycur": "CHF",
+      "sellcur": "PLN"
+    },
+    "EURGBP": {
+      "name": "EURGBP",
+      "buycur": "EUR",
+      "sellcur": "GBP"
+    },
+    "EURPLN": {
+      "name": "EURPLN",
+      "buycur": "EUR",
+      "sellcur": "PLN"
+    },
+    "GBPPLN": {
+      "name": "GBPPLN",
+      "buycur": "GBP",
+      "sellcur": "PLN"
+    },
+    "EURCHF": {
+      "name": "EURCHF",
+      "buycur": "EUR",
+      "sellcur": "CHF"
+    },
+    "GBPJPY": {
+      "name": "GBPJPY",
+      "buycur": "GBP",
+      "sellcur": "JPY"
+    },
+    "USDPLN": {
+      "name": "USDPLN",
+      "buycur": "USD",
+      "sellcur": "PLN"
+    },
+    "USDTRY": {
+      "name": "USDTRY",
+      "buycur": "USD",
+      "sellcur": "TRY"
+    },
+    "EURUSD": {
+      "name": "EURUSD",
+      "buycur": "EUR",
+      "sellcur": "USD"
+    },
+    "GBPUSD": {
+      "name": "GBPUSD",
+      "buycur": "GBP",
+      "sellcur": "USD"
+    },
+    "USDJPY": {
+      "name": "USDJPY",
+      "buycur": "USD",
+      "sellcur": "JPY"
+    },
+    "AUDCAD": {
+      "name": "AUDCAD",
+      "buycur": "AUD",
+      "sellcur": "CAD"
+    },
+    "AUDCHF": {
+      "name": "AUDCHF",
+      "buycur": "AUD",
+      "sellcur": "CHF"
+    },
+    "AUDJPY": {
+      "name": "AUDJPY",
+      "buycur": "AUD",
+      "sellcur": "JPY"
+    },
+    "GBPAUD": {
+      "name": "GBPAUD",
+      "buycur": "GBP",
+      "sellcur": "AUD"
+    },
+    "AUDNZD": {
+      "name": "AUDNZD",
+      "buycur": "AUD",
+      "sellcur": "NZD"
+    },
+    "GBPNZD": {
+      "name": "GBPNZD",
+      "buycur": "GBP",
+      "sellcur": "NZD"
+    },
+    "NZDUSD": {
+      "name": "NZDUSD",
+      "buycur": "NZD",
+      "sellcur": "USD"
+    },
+    "AUDUSD": {
+      "name": "AUDUSD",
+      "buycur": "AUD",
+      "sellcur": "USD"
+    },
+    "USDCHF": {
+      "name": "USDCHF",
+      "buycur": "USD",
+      "sellcur": "CHF"
+    },
+    "USDCAD": {
+      "name": "USDCAD",
+      "buycur": "USD",
+      "sellcur": "CAD"
+    },
+    "CADCHF": {
+      "name": "CADCHF",
+      "buycur": "CAD",
+      "sellcur": "CHF"
+    },
+    "CADJPY": {
+      "name": "CADJPY",
+      "buycur": "CAD",
+      "sellcur": "JPY"
+    },
+    "CHFJPY": {
+      "name": "CHFJPY",
+      "buycur": "CHF",
+      "sellcur": "JPY"
+    },
+    "EURAUD": {
+      "name": "EURAUD",
+      "buycur": "EUR",
+      "sellcur": "AUD"
+    },
+    "EURCAD": {
+      "name": "EURCAD",
+      "buycur": "EUR",
+      "sellcur": "CAD"
+    },
+    "EURJPY": {
+      "name": "EURJPY",
+      "buycur": "EUR",
+      "sellcur": "JPY"
+    },
+    "EURHUF": {
+      "name": "EURHUF",
+      "buycur": "EUR",
+      "sellcur": "HUF"
+    },
+    "EURNOK": {
+      "name": "EURNOK",
+      "buycur": "EUR",
+      "sellcur": "NOK"
+    },
+    "EURNZD": {
+      "name": "EURNZD",
+      "buycur": "EUR",
+      "sellcur": "NZD"
+    },
+    "EURSEK": {
+      "name": "EURSEK",
+      "buycur": "EUR",
+      "sellcur": "SEK"
+    },
+    "EURTRY": {
+      "name": "EURTRY",
+      "buycur": "EUR",
+      "sellcur": "TRY"
+    },
+    "GBPCAD": {
+      "name": "GBPCAD",
+      "buycur": "GBP",
+      "sellcur": "CAD"
+    },
+    "GBPCHF": {
+      "name": "GBPCHF",
+      "buycur": "GBP",
+      "sellcur": "CHF"
+    },
+    "NZDJPY": {
+      "name": "NZDJPY",
+      "buycur": "NZD",
+      "sellcur": "JPY"
+    },
+    "USDHUF": {
+      "name": "USDHUF",
+      "buycur": "USD",
+      "sellcur": "HUF"
+    },
+    "USDNOK": {
+      "name": "USDNOK",
+      "buycur": "USD",
+      "sellcur": "NOK"
+    },
+    "USDSEK": {
+      "name": "USDSEK",
+      "buycur": "USD",
+      "sellcur": "SEK"
+    },
+    "EURZAR": {
+      "name": "EURZAR",
+      "buycur": "EUR",
+      "sellcur": "ZAR"
+    },
+    "USDZAR": {
+      "name": "USDZAR",
+      "buycur": "USD",
+      "sellcur": "ZAR"
+    },
+    "USDDKK": {
+      "name": "USDDKK",
+      "buycur": "USD",
+      "sellcur": "DKK"
+    }
+  }
+  
