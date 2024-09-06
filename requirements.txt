@@ -11,3 +11,5 @@ Backtesting
 pyarrow
 scikit-optimize
 mplfinance
+openpyxl
+pandas_ta
