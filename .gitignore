@@ -32,3 +32,6 @@ Thumbs.db
 
 # Varius files for playing
 /Strategies/Custom_Indices/*.csv
+
+config.ini
+*.sqlite
