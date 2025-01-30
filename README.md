@@ -10,3 +10,4 @@ Medium articles
 - I compared 6 methods to identify the trend of the stock market. These are the results! https://medium.com/python-in-plain-english/i-compared-6-methods-to-identify-the-trend-of-the-stock-market-edb1e70371ef
 - The Buy-and-Hold Trap: What Backtests must really measure https://medium.com/@phitzi/the-buy-and-hold-trap-what-backtests-must-really-measure-python-included-333e619365d1
 - Stocks, Bonds, and Beyond: Unveiling the Best Portfolio Mix (backed with data) https://medium.com/@phitzi/stocks-bonds-and-beyond-unveiling-the-best-portfolio-mix-backed-with-data-5406d45ff108
+- Mastering VWAP: The Ultimate Guide to Precision Trading with Volume-Weighted Insights https://medium.com/@phitzi/mastering-vwap-the-ultimate-guide-to-precision-trading-with-volume-weighted-insights-02e6c6e77511 
