@@ -1,0 +1,9 @@
+asset,quantity,currency,country_exposure,sector,avg_weighted_purchase_price
+NVDA.US,30,,,,42
+AAPL.US, 15,,,,195
+TSLA.US,10,,,,305
+VOO.US,10,,,,500
+XLK.US,10,,,,215
+GPIX.US,100,,,,42
+BULLP.PA,250,,No Country Exposure,Gold,20
+BTC-USD.CC,0.04,USD,No Country Exposure,Crypto,81000

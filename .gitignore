@@ -32,6 +32,8 @@ Thumbs.db
 
 # Varius files for playing
 /Strategies/Custom_Indices/*.csv
+/Porfolio_Streamlit_Dashboard/*.csv
+/Porfolio_Streamlit_Dashboard/*.json
 
 config.ini
 *.sqlite
