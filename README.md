@@ -14,3 +14,4 @@ Medium articles
 - Backtest Results Revealed: Is the London Breakout Strategy Worth It? https://medium.com/insiderfinance/backtest-results-revealed-is-the-london-breakout-strategy-worth-it-0e9df65dd63b
 - What Every Trader Should Know About Correlation (But Few Do) https://medium.com/datadriveninvestor/what-every-trader-should-know-about-correlation-but-few-do-0e2c530b0af5 
 - Transform Your Trading: Create an Interactive Diversification Dashboard With Live Financial Data https://medium.com/@phitzi/transform-your-trading-create-an-interactive-diversification-dashboard-with-live-financial-data-4360cb854c5c
+- Backtesting Magnificent Seven: Volatility, Drawdown & Returns https://medium.com/@phitzi/backtesting-magnificent-seven-volatility-drawdown-returns-d495a53d5126
