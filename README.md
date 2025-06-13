@@ -15,3 +15,4 @@ Medium articles
 - What Every Trader Should Know About Correlation (But Few Do) https://medium.com/datadriveninvestor/what-every-trader-should-know-about-correlation-but-few-do-0e2c530b0af5 
 - Transform Your Trading: Create an Interactive Diversification Dashboard With Live Financial Data https://medium.com/@phitzi/transform-your-trading-create-an-interactive-diversification-dashboard-with-live-financial-data-4360cb854c5c
 - Backtesting Magnificent Seven: Volatility, Drawdown & Returns https://medium.com/@phitzi/backtesting-magnificent-seven-volatility-drawdown-returns-d495a53d5126
+- Ditch Excel: Build a Live-Updating Trading Dashboard in Notion with Python https://medium.com/@phitzi/ditch-excel-build-a-live-updating-trading-dashboard-in-notion-with-python-1b2d83f823e9
