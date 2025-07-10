@@ -16,3 +16,4 @@ Medium articles
 - Transform Your Trading: Create an Interactive Diversification Dashboard With Live Financial Data https://medium.com/@phitzi/transform-your-trading-create-an-interactive-diversification-dashboard-with-live-financial-data-4360cb854c5c
 - Backtesting Magnificent Seven: Volatility, Drawdown & Returns https://medium.com/@phitzi/backtesting-magnificent-seven-volatility-drawdown-returns-d495a53d5126
 - Ditch Excel: Build a Live-Updating Trading Dashboard in Notion with Python https://medium.com/@phitzi/ditch-excel-build-a-live-updating-trading-dashboard-in-notion-with-python-1b2d83f823e9
+- Why Every Trader Should Use Stock Clustering (and How to Start Today) https://medium.com/@phitzi/why-every-trader-should-use-stock-clustering-and-how-to-start-today-e5cf0b6fc895
