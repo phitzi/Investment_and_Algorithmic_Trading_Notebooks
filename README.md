@@ -19,3 +19,5 @@ Medium articles
 - Why Every Trader Should Use Stock Clustering (and How to Start Today) https://medium.com/@phitzi/why-every-trader-should-use-stock-clustering-and-how-to-start-today-e5cf0b6fc895
 - What Happens When You Feed Dozens of Technical Indicators to a Machine Learning Model? https://medium.com/@phitzi/what-happens-when-you-feed-dozens-of-technical-indicators-to-a-machine-learning-model-f0c237691d2e
 - Low-Volatility Stocks vs. High-Volatility Stocks: 10 Years of S&P 500 Backtesting https://medium.com/datadriveninvestor/low-volatility-stocks-vs-high-volatility-stocks-10-years-of-s-p-500-backtesting-0e40b12ad87e
+- Winter Is Coming… to Forex Markets: I Backtested 20 Years of Currency Strength Data https://medium.com/datadriveninvestor/winter-is-coming-to-forex-markets-i-backtested-20-years-of-currency-strength-data-3b3c2d38552b
+- 
