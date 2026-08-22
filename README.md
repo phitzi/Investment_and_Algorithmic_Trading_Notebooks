@@ -21,3 +21,4 @@ Medium articles
 - Low-Volatility Stocks vs. High-Volatility Stocks: 10 Years of S&P 500 Backtesting https://medium.com/datadriveninvestor/low-volatility-stocks-vs-high-volatility-stocks-10-years-of-s-p-500-backtesting-0e40b12ad87e
 - Winter Is Coming… to Forex Markets: I Backtested 20 Years of Currency Strength Data https://medium.com/datadriveninvestor/winter-is-coming-to-forex-markets-i-backtested-20-years-of-currency-strength-data-3b3c2d38552b
 - The Truth About Following Insider Trades: Analysis of thousands of transactions https://medium.com/@phitzi/the-truth-about-following-insider-trades-analysis-of-thousands-of-transactions-3374898c3ddb
+- Crash Test of Divergence: Does It Actually Predict Reversals? https://medium.com/@phitzi/crash-test-of-divergence-does-it-actually-predict-reversals-3900a1ca20aa
