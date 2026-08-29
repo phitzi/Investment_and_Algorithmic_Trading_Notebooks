@@ -22,3 +22,4 @@ Medium articles
 - Winter Is Coming… to Forex Markets: I Backtested 20 Years of Currency Strength Data https://medium.com/datadriveninvestor/winter-is-coming-to-forex-markets-i-backtested-20-years-of-currency-strength-data-3b3c2d38552b
 - The Truth About Following Insider Trades: Analysis of thousands of transactions https://medium.com/@phitzi/the-truth-about-following-insider-trades-analysis-of-thousands-of-transactions-3374898c3ddb
 - Crash Test of Divergence: Does It Actually Predict Reversals? https://medium.com/@phitzi/crash-test-of-divergence-does-it-actually-predict-reversals-3900a1ca20aa
+- Do These 5 Swing Trading Strategies Beat Buy and Hold? https://medium.com/@phitzi/do-these-5-swing-trading-strategies-beat-buy-and-hold-124594a3f009
